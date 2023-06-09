@@ -174,7 +174,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 1rem 0;
+    padding: 1rem 0; 
 }
 .about .row .info{
     flex: 1 1 48rem;
